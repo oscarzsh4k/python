@@ -1,4 +1,4 @@
-# Python
+# :snake: Python 
 
 Web: [https://www.python.org/](https://www.python.org/)
 
